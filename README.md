@@ -16,4 +16,4 @@ Scientific calculator using Python GUI -Tkinter
 
 
 #Screenshot
-![Alt text](image link)
+![Alt text]([image link](https://github.com/dydevops/Calculator/blob/main/calci.jpeg)https://github.com/dydevops/Calculator/blob/main/calci.jpeg)
